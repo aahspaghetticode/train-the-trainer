@@ -1,6 +1,7 @@
 # train-the-trainer
-My new idea for training ais
+My new idea for training ais.
 I have a reputation of creating projects i have insuffecient skill for, hope this isnt one of them. I do really need help with the AI engine, as i have very little practice there. I could definetly do the logic, ux, etc. though.
+
 # idea
 create ai training script with a lots of params
 give another ai control of those params
