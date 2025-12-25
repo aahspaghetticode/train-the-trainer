@@ -13,4 +13,4 @@ come back with fine-tuned training params
 - [ ] create example/testing user script
 - [ ] manually fine-tune auto fine-tuning ai (confusing and ironic, but i mean, what else would i say?)
 - [ ] improve UX
-      If you would do any of these and make a pull request i would be extremely greatful.
+# If you would do any of these and make a pull request i would be extremely greatful.
